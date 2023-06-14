@@ -1,0 +1,7 @@
+Index,organizacion,usuario,rol
+1,org1,jperez,admin
+2,org1,jperez,superadmin
+3,org1,asosa,writer
+4,org2,jperez,admin
+5,org2,rrodriguez,writer
+6,org2,rrodriguez,editor
