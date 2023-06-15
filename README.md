@@ -1,7 +1,7 @@
 # App Engine TypeScript sample for api filtered (parte1) and csv convert(parte2) to json
 
-parte1 :https://mimetic-plate-385622.ue.r.appspot.com/resumen/2019-12-09?dias=3
-parte2 : https://mimetic-plate-385622.ue.r.appspot.com/
+# parte1 :https://mimetic-plate-385622.ue.r.appspot.com/resumen/2019-12-09?dias=3
+# parte2 : https://mimetic-plate-385622.ue.r.appspot.com/
 
 This sample provides an example of how to compile TypeScript files while
 deploying to App Engine.
